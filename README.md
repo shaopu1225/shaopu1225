@@ -4,7 +4,7 @@
 - Before working on MLSys, I mainly worked on building distributed storage system, and engaged in building the prototype of [Skystore](https://arxiv.org/html/2502.20818v1) ([code](https://github.com/shaopu1225/skystore)), a global object store with S3 interface that optimize performance and cost @Sky Computing Lab.
 - Also, I have a 4-year experience on building intelligence robotic systems during my undergraduate period, some of which are posted:
 
-- Dji Mavic Pro Drone & Kuka Wheeled Robot Collaborative Logistics Warehousing system based on Webot simulation. [code](https://github.com/Mi-Dora/Human-Robot-Interaction), [video1](https://www.bilibili.com/video/BV1Rt4y1a788/?spm_id_from=333.1387.upload.video_card.click&vd_source=9daa77e3f941b5cdf3dc6826ea5b55b2), [video2](https://www.bilibili.com/video/BV1iD4y1X7To?spm_id_from=333.788.player.switch&vd_source=9daa77e3f941b5cdf3dc6826ea5b55b2)
+- Dji Mavic Pro Drone & Kuka Wheeled Robot Collaborative Logistics Warehousing system based on Webot simulation. [code](https://github.com/Mi-Dora/Automated-Market), [video1](https://www.bilibili.com/video/BV1Rt4y1a788/?spm_id_from=333.1387.upload.video_card.click&vd_source=9daa77e3f941b5cdf3dc6826ea5b55b2), [video2](https://www.bilibili.com/video/BV1iD4y1X7To?spm_id_from=333.788.player.switch&vd_source=9daa77e3f941b5cdf3dc6826ea5b55b2)
 
 - MatLab Simulation Design of a Deep Learning-Based (MMDetection) Automated Garment Sorting System. [video](bilibili.com/video/BV1Yy4y1q7Cq/?spm_id_from=333.1387.upload.video_card.click)
 
