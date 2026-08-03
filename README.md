@@ -1,5 +1,5 @@
 
-- Working on LLM training infra @MiniMax. 
+- Working on LLM Pretraining infra @MiniMax. 
 - Before joining MiniMax, I was a team member of AML @Bytedance, working on optimizing training framework for all Recommendation/Ads/Search business in the entire Bytedance ecosystem, such as Douyin, TikTok, shop, and live, etc.
 - Before working on MLSys, I mainly worked on building distributed storage system, and engaged in building the prototype of [Skystore](https://arxiv.org/html/2502.20818v1) ([code](https://github.com/shaopu1225/skystore)), a global object store with S3 interface that optimize performance and cost @Sky Computing Lab.
 - Also, I have a 4-year experience on building intelligence robotic systems during my undergraduate period, some of which are posted:
